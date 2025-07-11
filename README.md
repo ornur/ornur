@@ -40,4 +40,4 @@ I care about design systems, smooth user experiences, and writing maintainable c
 
 Feel free to check out my work or connect!
 
-[LinkedIn](https://www.linkedin.com/in/nurdaulet-orynbasarov/) • [Telegram](https://t.me/nurda_oryn)
+[LinkedIn](https://www.linkedin.com/in/nurdaulet-orynbasarov/) • [Telegram](https://t.me/nurda_oryn) • [Portfolio](https://portfolio-six-roan-90.vercel.app/)
