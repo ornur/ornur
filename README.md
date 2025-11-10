@@ -18,6 +18,7 @@ I care about design systems, smooth user experiences, and writing maintainable c
 ![Zod](https://img.shields.io/badge/Zod-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000?style=for-the-badge&logo=vercel&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-160440?style=for-the-badge&logo=react-query)
 
 
 ---
